@@ -1,0 +1,28 @@
+.footer {
+    display: column;
+    width: 100%;
+    text-align: center;
+    background-color: #0f0f0f;
+    color: #fff;
+    font-family: Arial;
+}
+
+.footer h2 {
+    padding: 1em 0 0 0;
+}
+
+.footer h3 {
+    padding: 0 0 1em 0;
+}
+
+.redes img {
+    padding: 1em;
+}
+
+.social {
+    width: 6%;
+}
+
+.socialW {
+    width: 7.2%;
+}
