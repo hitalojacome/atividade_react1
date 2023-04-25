@@ -1,0 +1,26 @@
+.GrandCanyon {
+    text-align: center;
+    background-image: url('./assets/GrandCanyon.jpg');
+    background-size: cover;
+    width: 96%;
+    height: 80vh;
+    padding: 2%;
+}
+
+.info {
+    margin: auto;
+    background-color: rgba(197, 204, 201, 0.700);
+    display: flex;
+    display: block;
+    width: 25%;
+    padding: 2em;
+    border-radius: 30px;
+}
+
+.info h1 { 
+    font-size: 25px;
+}
+
+.info p { 
+    font-size: 15px;
+}
